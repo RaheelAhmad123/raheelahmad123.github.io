@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raheelahmad123.github.io/sitemap.xml
